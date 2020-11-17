@@ -1,0 +1,286 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:2:1-44:12
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0bb88841c771f4da07a706885ca4b8fe\appcompat-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\4eabadb7c20ce3a6d3c15fb9e622705a\constraintlayout-1.1.3\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:15:1-39:12
+MERGED from [:camerarecorder] C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\camerarecorder\build\intermediates\library_manifest\debug\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d58be131235cb10ded57ef3adeed1088\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d9faaaf26fc140f365e3b207d6db990b\jetified-play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:15:1-40:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\daaac9e60cd224b57ef9f0bddfff5e7d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\ce53febe539132800a46a9079cdd025f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0530782fad4a0f65cecc5b3bbfd50514\fragment-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\2c20f117ef803a51a7d011356a282899\vectordrawable-animated-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\e413a74933535e288ffe626871cf6be5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\1bd3ce1a6e6ad68e9f42a0aad0a96c22\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\6a380d61ec4ebf829001173bcc52707d\vectordrawable-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8c83e385bf900db144c956081bf248bf\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\14f511737b694c275fdaa98e1fe75feb\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c7909606a7cec268552266dd28882441\coordinatorlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\cf0270bc32eae3add2f8a8bae449b645\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\17550c256f2861d65fcd064d82d89d36\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\30f424c1841ebc7559c1b25562c07c55\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c8f4a3ec0ca25fd11f2fd8fa18b53060\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\cbef60bd2544403729e84315b8fae278\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8107c8335bc35b5e49e97d48e6f39b34\core-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0436442b1f52b2d0b2a4e29d11e73828\versionedparcelable-1.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\177fa63ee73a6df1296df782a77c5225\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8a7cf29d2a901b5dd9b8e42b155f25ce\jetified-firebase-components-16.0.0\AndroidManifest.xml:15:1-23:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\3b03f32becb42ddebf1f03ba4abc733e\lifecycle-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0c72ad55ead990bd78e6f051ff702c07\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\a739535e0abe39f29d0bf17c832b8ea3\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\a927cb788b300023746251a8b9416eb7\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d6f4fbf6e7db0ea131110ed3f7a6fd20\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\e6d74b903907566c0f8b8cce16f40fc1\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\3efae7f87f8fb15dcf1f34473eb75964\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\4d43431ba977acfaa5f80826d23a5d96\core-runtime-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8b87881636b6e165cc94224635a4fbb6\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:2:1-44:12
+INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:2:1-44:12
+	package
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:3:5-32
+		INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:2:1-44:12
+		INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.camera
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:6:5-60
+	android:name
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:6:19-57
+uses-feature#android.hardware.camera.autofocus
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:7:5-70
+	android:name
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:7:19-67
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:9:5-65
+	android:name
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:9:22-62
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:10:22-78
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:13:22-68
+uses-feature#0x00020000
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:16:5-18:35
+	android:glEsVersion
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:17:9-41
+	android:required
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:18:9-32
+application
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:20:5-42:19
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\4eabadb7c20ce3a6d3c15fb9e622705a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\4eabadb7c20ce3a6d3c15fb9e622705a\constraintlayout-1.1.3\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:29:5-37:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d58be131235cb10ded57ef3adeed1088\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d58be131235cb10ded57ef3adeed1088\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d9faaaf26fc140f365e3b207d6db990b\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d9faaaf26fc140f365e3b207d6db990b\jetified-play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:25:5-38:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\daaac9e60cd224b57ef9f0bddfff5e7d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\daaac9e60cd224b57ef9f0bddfff5e7d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\ce53febe539132800a46a9079cdd025f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\ce53febe539132800a46a9079cdd025f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8107c8335bc35b5e49e97d48e6f39b34\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8107c8335bc35b5e49e97d48e6f39b34\core-1.0.0\AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0436442b1f52b2d0b2a4e29d11e73828\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0436442b1f52b2d0b2a4e29d11e73828\versionedparcelable-1.0.0\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8107c8335bc35b5e49e97d48e6f39b34\core-1.0.0\AndroidManifest.xml:22:18-86
+	android:supportsRtl
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:25:9-35
+	android:label
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:23:9-41
+	android:roundIcon
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:24:9-54
+	android:icon
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:22:9-43
+	android:allowBackup
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:21:9-35
+	android:theme
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:26:9-40
+activity#com.daasuu.sample.MainActivity
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:27:9-34:20
+	android:screenOrientation
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:29:13-49
+	android:name
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:28:13-58
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:30:13-33:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:31:17-69
+	android:name
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:31:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:32:17-77
+	android:name
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:32:27-74
+activity#com.daasuu.sample.PortrateActivity
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:35:9-37:52
+	android:screenOrientation
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:37:13-49
+	android:name
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:36:13-62
+activity#com.daasuu.sample.SquareActivity
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:38:9-69
+	android:name
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:38:19-66
+activity#com.daasuu.sample.LandscapeActivity
+ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:39:9-41:53
+	android:screenOrientation
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:41:13-50
+	android:name
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml:40:13-63
+uses-sdk
+INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0bb88841c771f4da07a706885ca4b8fe\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0bb88841c771f4da07a706885ca4b8fe\appcompat-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\4eabadb7c20ce3a6d3c15fb9e622705a\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:1.1.3] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\4eabadb7c20ce3a6d3c15fb9e622705a\constraintlayout-1.1.3\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [:camerarecorder] C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\camerarecorder\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:camerarecorder] C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\camerarecorder\build\intermediates\library_manifest\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d58be131235cb10ded57ef3adeed1088\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:18.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d58be131235cb10ded57ef3adeed1088\jetified-firebase-auth-interop-18.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d9faaaf26fc140f365e3b207d6db990b\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d9faaaf26fc140f365e3b207d6db990b\jetified-play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\daaac9e60cd224b57ef9f0bddfff5e7d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\daaac9e60cd224b57ef9f0bddfff5e7d\jetified-play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\ce53febe539132800a46a9079cdd025f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\ce53febe539132800a46a9079cdd025f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0530782fad4a0f65cecc5b3bbfd50514\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0530782fad4a0f65cecc5b3bbfd50514\fragment-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\2c20f117ef803a51a7d011356a282899\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\2c20f117ef803a51a7d011356a282899\vectordrawable-animated-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\e413a74933535e288ffe626871cf6be5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\e413a74933535e288ffe626871cf6be5\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\1bd3ce1a6e6ad68e9f42a0aad0a96c22\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\1bd3ce1a6e6ad68e9f42a0aad0a96c22\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\6a380d61ec4ebf829001173bcc52707d\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\6a380d61ec4ebf829001173bcc52707d\vectordrawable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8c83e385bf900db144c956081bf248bf\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8c83e385bf900db144c956081bf248bf\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\14f511737b694c275fdaa98e1fe75feb\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\14f511737b694c275fdaa98e1fe75feb\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c7909606a7cec268552266dd28882441\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c7909606a7cec268552266dd28882441\coordinatorlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\cf0270bc32eae3add2f8a8bae449b645\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\cf0270bc32eae3add2f8a8bae449b645\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\17550c256f2861d65fcd064d82d89d36\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\17550c256f2861d65fcd064d82d89d36\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\30f424c1841ebc7559c1b25562c07c55\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\30f424c1841ebc7559c1b25562c07c55\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c8f4a3ec0ca25fd11f2fd8fa18b53060\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c8f4a3ec0ca25fd11f2fd8fa18b53060\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\cbef60bd2544403729e84315b8fae278\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\cbef60bd2544403729e84315b8fae278\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8107c8335bc35b5e49e97d48e6f39b34\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8107c8335bc35b5e49e97d48e6f39b34\core-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0436442b1f52b2d0b2a4e29d11e73828\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0436442b1f52b2d0b2a4e29d11e73828\versionedparcelable-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\177fa63ee73a6df1296df782a77c5225\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\177fa63ee73a6df1296df782a77c5225\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8a7cf29d2a901b5dd9b8e42b155f25ce\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-components:16.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8a7cf29d2a901b5dd9b8e42b155f25ce\jetified-firebase-components-16.0.0\AndroidManifest.xml:19:5-21:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\3b03f32becb42ddebf1f03ba4abc733e\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\3b03f32becb42ddebf1f03ba4abc733e\lifecycle-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0c72ad55ead990bd78e6f051ff702c07\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\0c72ad55ead990bd78e6f051ff702c07\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\a739535e0abe39f29d0bf17c832b8ea3\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\a739535e0abe39f29d0bf17c832b8ea3\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\a927cb788b300023746251a8b9416eb7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\a927cb788b300023746251a8b9416eb7\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d6f4fbf6e7db0ea131110ed3f7a6fd20\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d6f4fbf6e7db0ea131110ed3f7a6fd20\lifecycle-viewmodel-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\e6d74b903907566c0f8b8cce16f40fc1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\e6d74b903907566c0f8b8cce16f40fc1\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\3efae7f87f8fb15dcf1f34473eb75964\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\3efae7f87f8fb15dcf1f34473eb75964\lifecycle-livedata-core-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\4d43431ba977acfaa5f80826d23a5d96\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\4d43431ba977acfaa5f80826d23a5d96\core-runtime-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8b87881636b6e165cc94224635a4fbb6\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\8b87881636b6e165cc94224635a4fbb6\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Matt\Desktop\projects\video recorder\camerarecorder-master\sample\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:26:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:26:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:27:5-67
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:27:22-64
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:30:9-36:19
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:33:9-37:35
+MERGED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:33:9-37:35
+	android:exported
+		ADDED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:32:13-37
+	tools:targetApi
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:37:13-32
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:35:13-43
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:31:13-84
+meta-data#com.google.firebase.components:com.google.firebase.storage.StorageRegistrar
+ADDED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:33:13-35:85
+	android:value
+		ADDED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:35:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-storage:19.2.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\9430ce16ec92c809dfdf8b52ef16f948\jetified-firebase-storage-19.2.0\AndroidManifest.xml:34:17-107
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d9faaaf26fc140f365e3b207d6db990b\jetified-play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d9faaaf26fc140f365e3b207d6db990b\jetified-play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d9faaaf26fc140f365e3b207d6db990b\jetified-play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\d9faaaf26fc140f365e3b207d6db990b\jetified-play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:26:9-31:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:28:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:30:13-37
+	android:directBootAware
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:29:13-43
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:31:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:19.3.1] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\c600c96c6db4d2cbf19587bca20cd600\jetified-firebase-common-19.3.1\AndroidManifest.xml:27:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\ce53febe539132800a46a9079cdd025f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\ce53febe539132800a46a9079cdd025f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Matt\.gradle\caches\transforms-2\files-2.1\ce53febe539132800a46a9079cdd025f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
